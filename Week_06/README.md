@@ -1,3 +1,3 @@
-Week 6
+***Week 6***
 
 Data Visualization Exercises
